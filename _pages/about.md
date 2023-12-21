@@ -14,7 +14,7 @@ My research interests lie in applying techniques from formal methods and program
 
 Prior to USC, I received my B.S. in Computer Science with a minor in Mathematics from UC Davis, where I was advised by Prof. [Aditya V. Thakur](https://thakur.cs.ucdavis.edu/).
 
-Here's my [[CV]]((https://drive.google.com/file/d/1fZiZr_js2oZLdDaQCyerNOg9kHUoYJ_-/view?usp=sharing))!
+Here's my [CV](https://drive.google.com/file/d/1fZiZr_js2oZLdDaQCyerNOg9kHUoYJ_-/view?usp=sharing)!
 
 News
 ----
