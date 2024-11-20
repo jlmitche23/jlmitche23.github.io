@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Computer Science PhD student at the University of Southern California (USC), advised by Prof. [Chao Wang](https://sites.usc.edu/chaowang/).
+I'm a second-year Computer Science PhD student at the University of Southern California (USC), advised by Prof. [Chao Wang](https://sites.usc.edu/chaowang/).
 
-My research interests lie in applying techniques from formal methods and programming languages to improve the safety and reliability of software.  Recently, I've been working on safe deep learning!
+My research interests lie in developing abstract interpretation-based frameworks to improve the safety and reliability of software.
 
 Prior to USC, I received my B.S. in Computer Science with a minor in Mathematics from UC Davis, where I was advised by Prof. [Aditya V. Thakur](https://thakur.cs.ucdavis.edu/).
 
