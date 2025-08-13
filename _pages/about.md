@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Computer Science PhD student studying formal methods at the University of Southern California (USC), advised by Prof. [Chao Wang](https://sites.usc.edu/chaowang/).  My research interests are in abstract interpretation, specifically in automating the challenging aspects of software verification and the design of verification tools.  I am also interested in using formal techniques to improve
+I'm a third-year Computer Science PhD student studying formal methods at the University of Southern California (USC), advised by Prof. [Chao Wang](https://sites.usc.edu/chaowang/).  My research interests are in abstract interpretation, specifically in automating the challenging aspects of software verification and the design of verification tools.  I am also interested in using formal techniques to improve
 the quality and security of LLM-generated code.
 
 I am also a Operations Team Member at [SIGPLAN-M](https://www.sigplan.org/LongTermMentoring/), a wonderful group which pairs up mentors and mentees in the PL community.  Check it out!
