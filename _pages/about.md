@@ -39,6 +39,7 @@ Here's my [CV](https://drive.google.com/file/d/1fZiZr_js2oZLdDaQCyerNOg9kHUoYJ_-
 # Honors and Awards
 ----
 - NSF GRFP Honorable Mention (2025)
+- Scholarship to attend VMW (Verification Mentoring Workshop) at CAV (2024)
 - Selected to attend CRA-W Grad Cohort for Women Workshop, Minneapolis, MN. (2024)
 - USC Andrew and Erna Viterbi PhD Fellowship
 
