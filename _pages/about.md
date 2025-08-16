@@ -29,10 +29,20 @@ Here's my [CV](https://drive.google.com/file/d/1fZiZr_js2oZLdDaQCyerNOg9kHUoYJ_-
 
 # Publications
 ----
-1. Position: Vibe Coding Needs Vibe Reasoning – Improving Vibe Coding with Formal Verification. **Jacqueline Mitchell**\*, Yasser Shaaban\*. LMPL 2025 (Co-located with SPLASH 2025) *(To Appear)*.
-2. Understanding Formal Reasoning Failures in LLMs as Abstract Interpreters.  **Jacqueline Mitchell**, Brian Hyeongseok Kim, Chenyu Zhou, Chao Wang, LMPL 2025 (Co-located with SPLASH 2025) *(To Appear)*.
-3. Quantifying Cache Side-Channel Leakage by Refining Set-Based Abstractions. **Jacqueline Mitchell**, Chao Wang, ECOOP 2025. [[link]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol333-ecoop2025/LIPIcs.ECOOP.2025.22/LIPIcs.ECOOP.2025.22.pdf)
-4. Architecture Preserving Provable Repair of Deep Neural Networks.  Zhe Tao, Stephanie Nawas, **Jacqueline Mitchell**, Aditya V. Thakur. PLDI 2023. [[link]](https://arxiv.org/abs/2304.03496)
+- *Position: Vibe Coding Needs Vibe Reasoning – Improving Vibe Coding with Formal Verification*  
+**Jacqueline L. Mitchell**\*, Yasser Shaaban\*  
+The 1st International Workshop on Language Models and Programming Languages (**LMPL 2025**,
+co-located with **SPLASH 2025**) (To Appear)
+- *Understanding Formal Reasoning Failures in LLMs as Abstract Interpreters*  
+**Jacqueline L. Mitchell**, Brian Hyeongseok Kim, Chenyu Zhou, Chao Wang.  
+The 1st International Workshop on Language Models and Programming Languages (**LMPL 2025**,
+co-located with **SPLASH 2025**) (To Appear)
+- *Quantifying Cache Side-Channel Leakage by Refining Set-Based Abstractions* [[link]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol333-ecoop2025/LIPIcs.ECOOP.2025.22/LIPIcs.ECOOP.2025.22.pdf)  
+**Jacqueline L. Mitchell**, Chao Wang  
+39th European Conference on Object-Oriented Programming (**ECOOP 2025**)
+- *Architecture-Preserving Provable Repair of Deep Neural Networks* [[link]](https://arxiv.org/abs/2304.03496)  
+Zhe Tao, Stephanie Nawas, Jacqueline L. Mitchell, and Aditya V. Thakur  
+44th ACM SIGPLAN International Conference on Programming Language Design and Implementation (**PLDI 2023**)
 
 \* Denotes equal contribution.
 
